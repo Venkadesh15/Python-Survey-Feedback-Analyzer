@@ -123,10 +123,3 @@ Word Count: 7
 - Identify frequently used words.
 - Develop an interactive dashboard using Streamlit.
 
-## 👨‍💻 Author
-
-**Venkadesh K**
-
-B.Tech Graduate in Artificial Intelligence and Data Science
-
-**Interests:** Python | Data Analytics | Data Science | Machine Learning
